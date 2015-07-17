@@ -3,7 +3,7 @@ A simple jQuery loading screen
 
 Example: http://www.gravitymedia.co.za/jLoader/example.html
 
-Step 1:
+# Step 1:
 
 Download and include the jLoader library and stylesheet in your html document. Also link to the jQuery library. (paste this code between the opening and closing <head> tags):
 ```
@@ -11,11 +11,11 @@ Download and include the jLoader library and stylesheet in your html document. A
    <script type="text/javascript" src="scripts/jLoader.js"></script>
    <link href="styles/jLoader.css" rel="stylesheet" />
 ```
-Step 2:
+# Step 2:
 
 Directly after your opening body tag, create a div with an id of "jLoader" like so
 ```
 <div id="jLoader"></div>
 ```
 
-You're done!
+# You're done!
