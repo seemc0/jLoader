@@ -13,4 +13,8 @@ Download and include the jLoader library and stylesheet in your html document. A
 ```
 Step 2:
 
-Directly after your opening body tag, create a div with an id of "jLoader"
+Directly after your opening body tag, create a div with an id of "jLoader" like so
+'''
+<div id="jLoader"></div>
+
+You're done!
