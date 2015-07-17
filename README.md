@@ -13,6 +13,10 @@ Download and include the jLoader library and stylesheet in your html document. A
 ```
 # Step 2:
 
+Download an animated loading graphic and name it "loader.gif" and place it in the "images" folder. You can download the one I used in my images folder if you wish.
+
+# Step 3:
+
 Directly after your opening body tag, create a div with an id of "jLoader" like so
 ```
 <div id="jLoader"></div>
