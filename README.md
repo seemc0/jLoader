@@ -13,7 +13,7 @@ Download and include the jLoader library and stylesheet in your html document. A
 ```
 # Step 2:
 
-Download an animated loading graphic and name it "loader.gif" and place it in the "images" folder. You can download the one I used in my images folder if you wish.
+Download an animated loading graphic and name it "loader.gif" and place it in the "images" folder. I used this one here: http://www.gravitymedia.co.za/jLoader/images/loader.gif
 
 # Step 3:
 
