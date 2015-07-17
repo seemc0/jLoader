@@ -1,3 +1,7 @@
+body {
+    overflow: hidden;
+}
+
 #jLoader {
     position: absolute;
     width: 100%;
