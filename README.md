@@ -1,4 +1,4 @@
-# jLoader
+# See Loader
 A simple jQuery loading screen
 
 Example: http://www.gravitymedia.co.za/jLoader/example.html
